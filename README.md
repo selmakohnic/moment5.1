@@ -1,7 +1,7 @@
 # Moment 5.1 - Skapa REST-webbtjänst
 I denna uppgift har en REST-webbtjänst med CRUD skapats, vars syfte är att lagra en lista med kurser. Denna lista presenteras i JSON-format. Webbtjänsten har skapats med objektorienterad PHP-programmering med en anslutning till en databasserver. 
 
-För att starta systemet klona först projektet genom: **git clone https://github.com/selmakohnic/moment5.1.git** och skriv därefter kommandot: **npm install** i en terminal
+För att starta systemet klona först projektet genom: **git clone https://github.com/selmakohnic/moment5.1.git**.
 
 Följande curl requests kan användas för att testa REST-webbtjänsten:
 * __GET:__ curl -i -X GET http://localhost/Webbutveckling3/Moment5/courselist.php/courses/
